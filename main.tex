@@ -1,0 +1,50 @@
+\include{header}
+
+
+\title{Abschlussarbeit Grundlagen}
+\shorttitle{Der Fall S.K.}
+\author{Till J. Ernst}
+\affiliation{Institut für systemische Entwicklung und Fortbildung}
+
+%\abstract{Your abstract here.}
+
+\begin{document}
+
+\include{content/titlepage}
+%\maketitle % für Disposition weglassen
+
+% Inhaltsverzeichnis
+\tableofcontents
+\newpage
+
+% Abkürzungen
+\begin{acronym}[KJPD]
+\acro{kjpd}[KJPD]{Kinder- und Jugendpsychiatrischer Dienst}
+\acro{sab}[SAB]{Abteilung Schulische Abklärung und Beratung}
+\acro{kg}[KG]{Krankengeschichte}
+\end{acronym}
+\newpage
+
+% Einleitung
+\include{content/abstract}
+
+% Ausgangslage
+\include{content/ausgangslage}
+
+% Gliederung der Arbeit
+\include{content/gliederung}
+
+
+% Literaturverzeichnis
+\begin{flushleft}
+%\nocite{*} // um alle in der Library vorhandenen Quellen aufzulisten
+\bibliography{lib2021.bib}{}
+\end{flushleft}
+\end{document}
+
+%
+% Please see the package documentation for more information
+% on the APA6 document class:
+%
+% http://www.ctan.org/pkg/apa6
+%

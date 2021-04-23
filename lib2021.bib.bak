@@ -1,0 +1,18 @@
+% Encoding: UTF-8
+
+@Article{Anderson1992,
+  author  = {H. Anderson and H. A. Goolishan},
+  journal = {Zeitschrift für Systemische Therapie},
+  title   = {Der {K}lient ist {E}xperte: {E}in therapeutischer {A}nsatz des {N}ichtwissens},
+  year    = {1992},
+}
+
+@Book{Rogers1993,
+  author    = {Carl R. Rogers},
+  publisher = {Fischer},
+  title     = {Die klientenzentrierte {G}esprächspsychotherapie},
+  year      = {1993},
+  isbn      = {3-596-421756},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
