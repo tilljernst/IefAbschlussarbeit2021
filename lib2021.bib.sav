@@ -30,16 +30,47 @@
   chapter   = {Auftragsklärung},
   editor    = {T. Levold & M. Wirsching},
   pages     = {172 - 174},
-  publisher = {Heidelberg: Auer},
+  publisher = {Auer},
   title     = {{S}ystemische {T}herapie und {B}eratung},
   year      = {2014},
+  address   = {Heidelberg},
 }
 
 @Book{Wampold2015,
-  author    = {B. E. Wampold & Z. E. Imel},
-  publisher = {New York: Routledge},
+  author    = {B. E. Wampold and Z. E. Imel},
+  publisher = {Routledge},
   title     = {The {G}reat {P}sychotherapy {D}ebate},
   year      = {2015},
+  address   = {New York},
+}
+
+@InBook{Borst2018,
+  author    = {Ulrike Borst},
+  chapter   = {Grundhaltung und {R}ahmung},
+  editor    = {Kirsten von Sydow and Ulrike Borst},
+  pages     = {70 - 83},
+  publisher = {Beltz},
+  title     = {Systemische {T}herapie in der {P}raxis},
+  year      = {2018},
+  address   = {Weinheim},
+}
+
+@Article{Cecchin1988,
+  author  = {G. Cecchin},
+  journal = {Familiendynamik},
+  title   = {Zum gegenwärtigen {S}tand von {H}ypothetisieren, {Z}irkularität und {N}eutralität: {E}ine {E}inladung zur {N}eugier.},
+  year    = {1988},
+  number  = {6},
+  pages   = {191 - 203},
+  volume  = {2},
+}
+
+@Book{Andersen1990,
+  author    = {T. Andersen},
+  publisher = {modernes lernen},
+  title     = {Das reflektierende {T}eam. {D}ialoge und {D}ialoge über {D}ialoge.},
+  year      = {1990},
+  address   = {Dortmund},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
