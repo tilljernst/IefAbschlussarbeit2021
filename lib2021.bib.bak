@@ -15,4 +15,14 @@
   isbn      = {3-596-421756},
 }
 
+@Article{Shazer1986,
+  author  = {St. de Shazer et al.},
+  journal = {Familiendynamik},
+  title   = {{K}urztherapie - {Z}ielgerichtete {E}ntwicklung von {L}ösungen},
+  year    = {1986},
+  number  = {11},
+  pages   = {182-205},
+  volume  = {3},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
