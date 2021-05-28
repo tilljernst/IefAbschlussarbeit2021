@@ -73,4 +73,21 @@
   address   = {Dortmund},
 }
 
+@Article{Spitzcok1999,
+  author  = {Spitzcok von Brisinski, I.},
+  journal = {Zeitschrift für systemische Therapie},
+  title   = {Zur {N}ützlichkeit psychiatrischer {K}lassifikationen in der systemischen {T}herapie – {DSM}, {ICD} und {MAS} als {H}ypothesenkatalog dynamischer {S}ystemkonstellationen.},
+  year    = {1999},
+  number  = {17},
+  pages   = {43 - 51},
+}
+
+@InBook{Starke2019,
+  author    = {C. Starke and T. Hess},
+  chapter   = {Systematik von {F}ragetechniken},
+  publisher = {IEF - Institut für systemische Entwicklung und Fortbildung},
+  title     = {Vom {E}rstkontakt zum {E}rstkontrakt: systemische {P}sychotherapie planen},
+  year      = {2019},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
