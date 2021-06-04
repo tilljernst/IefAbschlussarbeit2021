@@ -1,0 +1,112 @@
+% Encoding: UTF-8
+
+@Article{Anderson1992,
+  author  = {H. Anderson and H. A. Goolishan},
+  journal = {Zeitschrift für Systemische Therapie},
+  title   = {Der {K}lient ist {E}xperte: {E}in therapeutischer {A}nsatz des {N}ichtwissens},
+  year    = {1992},
+}
+
+@Book{Rogers1993,
+  author    = {Carl R. Rogers},
+  publisher = {Fischer},
+  title     = {Die klientenzentrierte {G}esprächspsychotherapie},
+  year      = {1993},
+  isbn      = {3-596-421756},
+}
+
+@Article{Shazer1986,
+  author  = {St. de Shazer et al.},
+  journal = {Familiendynamik},
+  title   = {{K}urztherapie - {Z}ielgerichtete {E}ntwicklung von {L}ösungen},
+  year    = {1986},
+  number  = {11},
+  pages   = {182-205},
+  volume  = {3},
+}
+
+@InBook{Schwing2014,
+  author    = {R. Schwing},
+  chapter   = {Auftragsklärung},
+  editor    = {T. Levold & M. Wirsching},
+  pages     = {172 - 174},
+  publisher = {Auer},
+  title     = {{S}ystemische {T}herapie und {B}eratung},
+  year      = {2014},
+  address   = {Heidelberg},
+}
+
+@Book{Wampold2015,
+  author    = {B. E. Wampold and Z. E. Imel},
+  publisher = {Routledge},
+  title     = {The {G}reat {P}sychotherapy {D}ebate},
+  year      = {2015},
+  address   = {New York},
+}
+
+@InBook{Borst2018,
+  author    = {Ulrike Borst},
+  chapter   = {Grundhaltung und {R}ahmung},
+  editor    = {Kirsten von Sydow and Ulrike Borst},
+  pages     = {70 - 83},
+  publisher = {Beltz},
+  title     = {Systemische {T}herapie in der {P}raxis},
+  year      = {2018},
+  address   = {Weinheim},
+}
+
+@Article{Cecchin1988,
+  author  = {G. Cecchin},
+  journal = {Familiendynamik},
+  title   = {Zum gegenwärtigen {S}tand von {H}ypothetisieren, {Z}irkularität und {N}eutralität: {E}ine {E}inladung zur {N}eugier.},
+  year    = {1988},
+  number  = {6},
+  pages   = {191 - 203},
+  volume  = {2},
+}
+
+@Book{Andersen1990,
+  author    = {T. Andersen},
+  publisher = {modernes lernen},
+  title     = {Das reflektierende {T}eam. {D}ialoge und {D}ialoge über {D}ialoge.},
+  year      = {1990},
+  address   = {Dortmund},
+}
+
+@Article{Spitzcok1999,
+  author  = {Spitzcok von Brisinski, I.},
+  journal = {Zeitschrift für systemische Therapie},
+  title   = {Zur {N}ützlichkeit psychiatrischer {K}lassifikationen in der systemischen {T}herapie – {DSM}, {ICD} und {MAS} als {H}ypothesenkatalog dynamischer {S}ystemkonstellationen.},
+  year    = {1999},
+  number  = {17},
+  pages   = {43 - 51},
+}
+
+@InBook{Starke2019,
+  author    = {C. Starke and T. Hess},
+  chapter   = {Systematik von {F}ragetechniken},
+  editor    = {C. Starke and A. Nadalet},
+  publisher = {IEF - Institut für systemische Entwicklung und Fortbildung},
+  title     = {Vom {E}rstkontakt zum {E}rstkontrakt: systemische {P}sychotherapie planen [Handout]},
+  year      = {2019},
+}
+
+@Article{Kiresuk1968,
+  author  = {T. J. Kiresuk and R. E. Sherman},
+  journal = {Cummunity Mental Health Journal},
+  title   = {{Goal Attainment Scale: A general method for evaluating comprehensive cummunity mental health programs}},
+  year    = {1968},
+  number  = {6},
+  pages   = {443-453},
+  volume  = {4},
+}
+
+@PhdThesis{Dahling2006,
+  author = {V. G. Dahling},
+  school = {Dissertation an der Medizinischen Fakultät Charité - Universitätsmedizin Berlin},
+  title  = {{Externe Qualitätssicherung in sieben Berliner Tageskliniken am Beispiel individueller Therapieziele}},
+  year   = {2006},
+  type   = {phdthesis},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
