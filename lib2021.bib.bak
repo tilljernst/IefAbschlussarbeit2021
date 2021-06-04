@@ -91,4 +91,22 @@
   year      = {2019},
 }
 
+@Article{Kiresuk1968,
+  author  = {T. J. Kiresuk and R. E. Sherman},
+  journal = {Cummunity Mental Health Journal},
+  title   = {{Goal Attainment Scale: A general method for evaluating comprehensive cummunity mental health programs}},
+  year    = {1968},
+  number  = {6},
+  pages   = {443-453},
+  volume  = {4},
+}
+
+@PhdThesis{Dahling2006,
+  author = {V. G. Dahling},
+  school = {Dissertation an der Medizinischen Fakultät Charité - Universitätsmedizin Berlin},
+  title  = {{Externe Qualitätssicherung in sieben Berliner Tageskliniken am Beispiel individueller Therapieziele}},
+  year   = {2006},
+  type   = {phdthesis},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
