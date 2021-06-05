@@ -109,4 +109,22 @@
   type   = {phdthesis},
 }
 
+@Book{Lambert2013,
+  author    = {Lambert, M. J. and Kahler, M. and Harmon, C. and Burlingame, G. M. and Shimokawa, K. and White, M. M.},
+  publisher = {Salt Lake City, UT},
+  title     = {{Admiinistration and Scoring Manual für the OQ-45.2 (Outcome Questionnaire)}},
+  year      = {2013},
+  address   = {OQ Measures, LLC},
+}
+
+@Article{Lambert2002,
+  author  = {Lambert, M. J. and Hannöver, W. and Nisslmüller, K. and Richard, M. and Kordy, H.},
+  journal = {Zeitschrift für Klinische Psychologei und Psychotherapie},
+  title   = {{Fragebogen zum Ergebnis von Psychotherapie}},
+  year    = {2002},
+  number  = {1},
+  pages   = {40-46},
+  volume  = {31},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
